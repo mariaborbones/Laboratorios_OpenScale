@@ -1,1 +1,1 @@
-# Laboratorios_OpenScale
+# Laboratorios OpenScale
